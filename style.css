@@ -1,0 +1,65 @@
+.hallo {
+    background-image: url(aarti-industries-banner-2b.jpg);
+    height: 650px;
+}
+
+.dropdown :hover {
+    color:  #f1652b;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    border-top: 7px solid #f1642c;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #f1652b;
+
+}
+
+.hj {
+    text-transform: uppercase;
+    margin: auto;
+    background-color: #0e4065;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 21px;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.box {
+    border: 1px solid rgb(191, 191, 196);
+    transition: all 0.5s 0.1s;
+    filter: grayscale(100%);
+}
+
+.box:hover {
+    transform: translateY(-10px);
+    filter: grayscale(0%);
+}
+.hom{
+    background-color:  rgb(63, 179, 65);
+}
+a{
+    text-decoration: none;
+
+}
+.column a {
+    color: #ebffff;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 30px;
+    display: block;
+    padding-bottom: 10px;
+   
+}
+.column1 a{
+    color: #ebffff;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 30px;
+   
+    padding-bottom: 10px;
+}

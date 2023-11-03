@@ -1,0 +1,25 @@
+.hallo {
+    background-image: url(1.jpg);
+    height: 650px;
+}
+
+.dropdown :hover {
+    color:  #f1652b;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    border-top: 7px solid #f1642c;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #f1652b;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+.hom{
+    background-color:  rgb(63, 179, 65);
+}

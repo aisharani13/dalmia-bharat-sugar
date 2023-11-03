@@ -1,0 +1,81 @@
+.hallo {
+    background-image: url(aa.jpg);
+    height: 450px;
+}
+
+.dropdown :hover {
+    color: #f1652b;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    border-top: 7px solid #f1642c;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #f1652b;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.box1 {
+    box-sizing: border-box;
+    transition: all 0.3s ease-in-out;
+    vertical-align: middle;
+    border-style: none;
+}
+
+.box1:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+.kon {
+    background-color: #ECF3F9;
+}
+
+.hal {
+    background: url(cst12.jpg);
+    height: 450px;
+}
+
+.myimage {
+    margin-top: 160px;
+}
+
+.single-img img {
+    transition: 0.5s all ease-in-out;
+    width: 60%;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.single-img {
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.single-img {
+    height: 135px;
+    width: 135px;
+    border: 1px dashed #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff24;
+}
+
+.haa {
+    background: url(csr-parallaximg2-new.jpg);
+    height: 700px;
+}
+.hom{
+    background-color:  rgb(63, 179, 65);
+}

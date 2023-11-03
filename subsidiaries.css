@@ -1,0 +1,48 @@
+.dropdown :hover {
+    color: #f1652b;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    border-top: 7px solid #f1642c;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #f1652b;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.pink-btn a {
+    background: #FE0074;
+    border-radius: 50px;
+    color: #FFFFFF;
+    font-size: 18px;
+
+    padding: 13.5px 10px 15.5px 10px;
+    min-width: 230px;
+    text-align: center;
+    position: relative;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.12);
+    display: inline-block;
+}
+
+.bro {
+    background-color: rgb(236, 127, 255);
+}
+
+.hallo {
+    background-image: url(download\ \(2\).jpeg);
+    height: 550px;
+}
+
+.hal {
+    background-image: url(download\ \(3\).jpeg);
+    height: 550px;
+}
+.hom{
+    background-color:  rgb(63, 179, 65);
+}
